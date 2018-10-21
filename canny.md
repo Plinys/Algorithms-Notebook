@@ -7,12 +7,11 @@
 ### 2.利用一阶偏导的有限差分来计算梯度的幅值和方向
 - 利用sobel算子：
 $$ \begin{aligned}
-S_x = \left[ 
-\begin{matrix}
-  -1 & 0 & 1 \\   
-  -2 & 0 & 2 \\   
+S_x =
+\begin{bmatrix}
+  -1 & 0 & 1 \\
+  -2 & 0 & 2 \\
   -1 & 0 & 1
-\end{matrix}
-\right] 
+\end{bmatrix}
 \end{aligned}
 $$
