@@ -6,7 +6,7 @@
 - 利用高斯滤波使得图像变得平滑，去除高频噪声，同时增大了边缘的宽度
 ### 2.利用一阶偏导的有限差分来计算梯度的幅值和方向
 - 利用sobel算子：
-$$
+$$ \begin{aligned}
 S_x = \left[ 
 \begin{matrix}
 -1 & 0 & 1 \\\
@@ -14,4 +14,5 @@ S_x = \left[
 -1 & 0 & 1
 \end{matrix}
 \right] 
+\end{aligned}
 $$
