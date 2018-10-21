@@ -9,9 +9,9 @@
 $$ \begin{aligned}
 S_x = \left[ 
 \begin{matrix}
--1 & 0 & 1 \\
--2 & 0 & 2 \\
--1 & 0 & 1
+  -1 & 0 & 1 \\   
+  -2 & 0 & 2 \\   
+  -1 & 0 & 1
 \end{matrix}
 \right] 
 \end{aligned}
