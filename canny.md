@@ -13,6 +13,12 @@ S_x =
    -1 & 0 & 1 \\\\
    -2 & 0 & 2 \\\\
    -1 & 0 & 1
-\end{bmatrix}
+\end{bmatrix} ,
+S_y = 
+\begin{bmatrix}
+   1 & 2 & 1 \\\\
+   0 & 0 & 0 \\\\
+   -1 & -2 & -1
+ \end{bmatrix}
 \end{aligned}
 $$
